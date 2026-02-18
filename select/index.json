@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の猫になりたい",
+  "base_artist": "moon drop",
+  "createdAt": "2026-02-18T07:06:05.760391Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の猫になりたい",
+      "artist": "moon drop",
+      "has_synced": false,
+      "path": "select/pl_01_君の猫になりたい_moon_drop.txt"
+    }
+  ]
+}
